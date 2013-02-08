@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Lars H. Nielsen (adapted and enhanced by Sergei Shoshin)</string>
+	<string>Lars H. Nielsen</string>
+	<key>comment</key>
+	<string>Adapted and enhanced by Sergei Shoshin</string>
 	<key>name</key>
 	<string>Wombat</string>
 	<key>semanticClass</key>
@@ -267,10 +269,10 @@
 			<string>support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#E7F6DA</string>
 				<key>fontStyle</key>
 				<string>bold</string>
+				<key>foreground</key>
+				<string>#E7F6DA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -468,9 +470,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css @at-rule</string>
+			<string>§ css specific keywords</string>
 			<key>scope</key>
-			<string>meta.at-rule keyword.control.at-rule</string>
+			<string>meta.at-rule keyword.control.at-rule, keyword.other.important.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
