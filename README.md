@@ -1,4 +1,4 @@
-## Wombat — a theme for TextMate
+## Wombat — a dark theme for TextMate
 
 ![wombat](https://raw.github.com/nerone/wombat-tmtheme/gh-pages/preview.png)
 
