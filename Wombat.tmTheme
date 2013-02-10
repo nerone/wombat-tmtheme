@@ -149,7 +149,7 @@
 				<key>background</key>
 				<string>#562D56BF</string>
 				<key>foreground</key>
-				<string>#F8F8F8</string>
+				<string>#F6F3E8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -219,10 +219,7 @@
 			<key>scope</key>
 			<string>string.regexp</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E9C062</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -232,7 +229,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CF7D34</string>
+				<string>#CAE682</string>
 			</dict>
 		</dict>
 		<dict>
@@ -271,6 +268,17 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>bold</string>
+				<key>foreground</key>
+				<string>#E7F6DA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>♦ Keyword Other</string>
+			<key>scope</key>
+			<string>keyword.other - keyword.other.unit</string>
+			<key>settings</key>
+			<dict>
 				<key>foreground</key>
 				<string>#E7F6DA</string>
 			</dict>
@@ -410,17 +418,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css tag-name</string>
-			<key>scope</key>
-			<string>meta.selector.css entity.name.tag</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#8AC6F2</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>§ css:pseudo-class</string>
 			<key>scope</key>
 			<string>meta.selector.css entity.other.attribute-name.pseudo-class, meta.selector.css entity.other.attribute-name.pseudo-element</string>
@@ -470,9 +467,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css specific keywords</string>
+			<string>§ css @at-rule</string>
 			<key>scope</key>
-			<string>meta.at-rule keyword.control.at-rule, keyword.other.important.css</string>
+			<string>meta.at-rule keyword.control.at-rule</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -485,10 +482,7 @@
 			<key>scope</key>
 			<string>meta.property-value support.constant.named-color.css, meta.property-value constant</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E5786D</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
