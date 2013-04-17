@@ -276,7 +276,7 @@
 			<key>name</key>
 			<string>♦ Keyword Other</string>
 			<key>scope</key>
-			<string>keyword.other - keyword.other.unit</string>
+			<string>keyword.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -292,6 +292,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#B3B5AF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>♦ Keyword CSS Unit</string>
+			<key>scope</key>
+			<string>keyword.other.unit</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E5786D</string>
 			</dict>
 		</dict>
 		<dict>
