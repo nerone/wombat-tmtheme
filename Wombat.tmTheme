@@ -274,9 +274,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ Keyword Other</string>
+			<string>♦ Keyword Important</string>
 			<key>scope</key>
-			<string>keyword.other</string>
+			<string>keyword.other.important</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -296,7 +296,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ Keyword CSS Unit</string>
+			<string>♦ Keyword Unit</string>
 			<key>scope</key>
 			<string>keyword.other.unit</string>
 			<key>settings</key>
