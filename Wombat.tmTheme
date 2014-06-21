@@ -254,10 +254,7 @@
 			<key>scope</key>
 			<string>support.constant</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E5786D</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
